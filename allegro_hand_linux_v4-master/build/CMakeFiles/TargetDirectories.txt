@@ -1,0 +1,13 @@
+/home/server/Downloads/allegro_hand_linux_v4-master/build/CMakeFiles/edit_cache.dir
+/home/server/Downloads/allegro_hand_linux_v4-master/build/CMakeFiles/rebuild_cache.dir
+/home/server/Downloads/allegro_hand_linux_v4-master/build/CMakeFiles/list_install_components.dir
+/home/server/Downloads/allegro_hand_linux_v4-master/build/CMakeFiles/install.dir
+/home/server/Downloads/allegro_hand_linux_v4-master/build/CMakeFiles/install/local.dir
+/home/server/Downloads/allegro_hand_linux_v4-master/build/CMakeFiles/install/strip.dir
+/home/server/Downloads/allegro_hand_linux_v4-master/build/grasp/CMakeFiles/grasp.dir
+/home/server/Downloads/allegro_hand_linux_v4-master/build/grasp/CMakeFiles/edit_cache.dir
+/home/server/Downloads/allegro_hand_linux_v4-master/build/grasp/CMakeFiles/rebuild_cache.dir
+/home/server/Downloads/allegro_hand_linux_v4-master/build/grasp/CMakeFiles/list_install_components.dir
+/home/server/Downloads/allegro_hand_linux_v4-master/build/grasp/CMakeFiles/install.dir
+/home/server/Downloads/allegro_hand_linux_v4-master/build/grasp/CMakeFiles/install/local.dir
+/home/server/Downloads/allegro_hand_linux_v4-master/build/grasp/CMakeFiles/install/strip.dir
